@@ -7,7 +7,7 @@ The project is divided into two parts:
 1. Door handle recognition: Based on yolov5 method to perform initial recognition of door handle. 
 2. Keyhole and door handle positioning: Based on RGB-D obtained depth information and contour recognition and LSD line detection algorithm to obtain three-dimensional pose of keyhole and door handle.
 
-![](E:\p\result.png)
+![reslut](https://raw.githubusercontent.com/Ning030/git_test/master/result.png)
 
 ## Project Structure
 
